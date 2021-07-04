@@ -100,7 +100,7 @@ class _HomeState extends State<Home> {
           ),
         ),
 
-        //this code is for everything in the white background.
+        //this code is for everything in the white background..
         Expanded(
           child: Padding(
             padding: EdgeInsets.all(20.0),
