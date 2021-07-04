@@ -1,7 +1,8 @@
 # weather_app
 
-A new Flutter project.
+A new Flutter project. 
 
+This is my assignment
 ## Getting Started
 
 This project is a starting point for a Flutter application.
